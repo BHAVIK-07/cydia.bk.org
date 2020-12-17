@@ -1,0 +1,33 @@
+
+Package: com.bksworld.FirstRelease
+Version: 1.0
+Section: Tweaks
+Maintainer: itsbk <bhavikpatel7339@gmail.com>
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/A Test Tweak.deb
+Size: 3826 
+MD5sum: c92d4235cdbdd334224f66ed611fc0e0
+Description: This is a test package.
+Name: Test package
+Author: bhavik <bhavikpatel7339@gmail.com>
+Depiction: A Test tweak
+
+Package:com.bksworld.in
+Name: iCleaner Pro 
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.8.3
+Architecture: iphoneos-arm
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Depiction: use for clear your iphone unused file!!
+Size: 9503048
+Filename: ./debs/i Cleaner Pro.deb
+Depiction: https://github.com/BHAVIK-07/cydia.bk.org/depictions/?p=i Cleaner Pro

@@ -1,0 +1,39 @@
+<package>
+	<id>my</id>
+	<name>iCleaner Pro</name>
+	<version>7.8.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>use for clear your iphone unused file!!</shortDescription>
+	<descriptionlist>
+		<description>use for clear your iphone unused file!!</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>use for clear your iphone unused file!!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>use for clear your iphone unused file!!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
